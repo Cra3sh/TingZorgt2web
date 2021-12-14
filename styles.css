@@ -1,0 +1,43 @@
+h2{
+  font-family: arial-black, serif;
+}
+
+body{
+  margin: 0;
+  font-family: calibri, sans-serif;
+}
+
+.first-container{
+  background-color: #CEE5D0;
+  padding-top: 300px;
+  text-align: center;
+
+}
+
+.second-container{
+  background-color: #F3F0D7;
+  padding-top: 300px;
+  text-align: center;
+
+}
+
+.third-container{
+  background-color: #FED2AA;
+  padding-top: 300px;
+  text-align: center;
+
+}
+
+.fourth-container{
+  background-color: #FFBF86;
+  padding-top: 300px;
+  text-align: center;
+
+}
+
+.fifth-container{
+  background-color: #fbeeac;
+  padding-top: 300px;
+  text-align: center;
+
+}
